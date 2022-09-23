@@ -1,6 +1,4 @@
 #include "main.hpp"
-#include <GL/freeglut_std.h>
-#include <GL/gl.h>
 
 char nextMove = ' ';
 int posx = 400;
